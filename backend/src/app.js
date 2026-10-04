@@ -59,7 +59,7 @@ app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 app.use(generalLimiter);
 
 // 5. Health Check
-app.get('/api/health', (req, res) => {
+app.get(['/health', '/api/health'], (req, res) => {
   res.json({
     status: 'UP',
     timestamp: new Date().toISOString(),
@@ -67,12 +67,19 @@ app.get('/api/health', (req, res) => {
   });
 });
 
-// 6. Application Routes
+// 6. Application Routes (mounted on /api and root for maximum client compatibility)
 app.use('/api/auth', authRoutes);
 app.use('/api', movieRoutes);
 app.use('/api', bookingRoutes);
 app.use('/api', demandsRoutes);
 app.use('/api', adminRoutes);
+
+// Fallback aliases if a client omits /api
+app.use('/auth', authRoutes);
+app.use('/', movieRoutes);
+app.use('/', bookingRoutes);
+app.use('/', demandsRoutes);
+app.use('/', adminRoutes);
 
 // 7. 404 Route Handler
 app.use('*', (req, res) => {
