@@ -1,0 +1,810 @@
+[
+  {
+    "title": "Pushpa 2: The Rule",
+    "description": "The clash between Pushpa Raj and SP Bhanwar Singh Shekhawat escalates into all-out warfare as Pushpa expands his red sandalwood syndicate across international borders.",
+    "duration_mins": 204,
+    "genre": "Action / Mass",
+    "poster_url": "/posters/pushpa_2_the_rule.jpg",
+    "rating": "8.9"
+  },
+  {
+    "title": "Pushpa: The Rise",
+    "description": "A laborer rises through the ranks of a red sandalwood smuggling syndicate in the forests of Seshachalam, battling a powerful cop on the way up.",
+    "duration_mins": 179,
+    "genre": "Action / Crime",
+    "poster_url": "/posters/pushpa_the_rise.jpg",
+    "rating": "7.6"
+  },
+  {
+    "title": "RRR",
+    "description": "A fearless revolutionary Alluri Sitarama Raju and an officer Komaram Bheem forge an unbreakable friendship in 1920s British India.",
+    "duration_mins": 187,
+    "genre": "Historical / Period Action",
+    "poster_url": "/posters/rrr.jpg",
+    "rating": "8.0"
+  },
+  {
+    "title": "Kalki 2898 AD",
+    "description": "Set in a post-apocalyptic dystopian Kashi, a cynical bounty hunter Bhairava and an immortal warrior Ashwatthama battle over protecting the mother of Kalki.",
+    "duration_mins": 181,
+    "genre": "Sci-Fi / Mythology",
+    "poster_url": "/posters/kalki_2898_ad.jpg",
+    "rating": "7.6"
+  },
+  {
+    "title": "Baahubali: The Beginning",
+    "description": "In ancient Mahishmati kingdom, an adventurous tribal youth discovers his royal lineage and the heroic legacy of his father.",
+    "duration_mins": 159,
+    "genre": "Action / Epic Fantasy",
+    "poster_url": "/posters/baahubali_the_beginning.jpg",
+    "rating": "8.0"
+  },
+  {
+    "title": "Baahubali 2: The Conclusion",
+    "description": "When Shiva learns about his royal heritage, he embarks on an unforgettable quest to avenge his father Amarendra Baahubali and overthrow Bhallaladeva.",
+    "duration_mins": 167,
+    "genre": "Action / Epic Fantasy",
+    "poster_url": "/posters/baahubali_2_the_conclusion.jpg",
+    "rating": "8.2"
+  },
+  {
+    "title": "Devara: Part 1",
+    "description": "A valiant coastal warrior secretly protects his people against dangerous maritime smuggling networks while confronting betrayal from within his community.",
+    "duration_mins": 178,
+    "genre": "Action / Coastal Adventure",
+    "poster_url": "/posters/devara_part_1.jpg",
+    "rating": "6.8"
+  },
+  {
+    "title": "Salaar: Part 1 – Ceasefire",
+    "description": "A dreaded gang leader Deva arrives in the dark sovereign metropolis of Khansaar to fulfill a sacred oath and protect his childhood friend.",
+    "duration_mins": 175,
+    "genre": "Action / Crime Thriller",
+    "poster_url": "/posters/salaar_part_1_ceasefire.jpg",
+    "rating": "6.6"
+  },
+  {
+    "title": "Hanu-Man",
+    "description": "An underdog thief in a rural village stumbles upon a celestial gemstone of Lord Hanuman that grants him supernatural solar abilities.",
+    "duration_mins": 158,
+    "genre": "Mythological Superhero",
+    "poster_url": "/posters/hanu_man.jpg",
+    "rating": "7.9"
+  },
+  {
+    "title": "Lucky Baskhar",
+    "description": "A middle-class bank cashier in 1990s Bombay discovers an audacious financial loophole that catapults him into high-stakes stock market manipulation.",
+    "duration_mins": 150,
+    "genre": "Thriller / Financial Drama",
+    "poster_url": "/posters/lucky_baskhar.jpg",
+    "rating": "7.8"
+  },
+  {
+    "title": "Tillu Square",
+    "description": "DJ Tillu gets entangled in another chaotic mystery when he falls for a mysterious woman who pulls him into a whirlwind of dangerous comedy.",
+    "duration_mins": 125,
+    "genre": "Comedy / Romance / Crime",
+    "poster_url": "/posters/tillu_square.jpg",
+    "rating": "7.2"
+  },
+  {
+    "title": "DJ Tillu",
+    "description": "A fun-loving, stylish DJ in Hyderabad falls for a nightclub singer who gets him dragged into an accidental homicide and blackmail plot.",
+    "duration_mins": 121,
+    "genre": "Comedy / Crime",
+    "poster_url": "/posters/dj_tillu.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Sita Ramam",
+    "description": "An orphaned soldier Lieutenant Ram serving at the Kashmir border receives love letters from an enigmatic woman named Sita, culminating in an epic romance.",
+    "duration_mins": 163,
+    "genre": "Romance / Period Drama",
+    "poster_url": "/posters/sita_ramam.jpg",
+    "rating": "8.6"
+  },
+  {
+    "title": "Jersey",
+    "description": "A talented but failed cricketer in his late thirties decides to return to cricket to fulfill his young son's desire for an Indian team jersey.",
+    "duration_mins": 157,
+    "genre": "Sports / Drama",
+    "poster_url": "/posters/jersey.jpg",
+    "rating": "8.5"
+  },
+  {
+    "title": "Mahanati",
+    "description": "The biographical drama chronicling the meteoric rise and tragic fall of South Indian cinema legendary superstar actress Savitri.",
+    "duration_mins": 177,
+    "genre": "Biography / Drama",
+    "poster_url": "/posters/mahanati.jpg",
+    "rating": "8.5"
+  },
+  {
+    "title": "Rangasthalam",
+    "description": "In the 1980s fictional village of Rangasthalam, a partially deaf man Chitti Babu uncovers dark corruption and fights the oppressive village president.",
+    "duration_mins": 179,
+    "genre": "Action / Period Drama",
+    "poster_url": "/posters/rangasthalam.jpg",
+    "rating": "8.2"
+  },
+  {
+    "title": "Eega",
+    "description": "A young man murdered by an arrogant industrialist is reincarnated as a housefly and embarks on a relentless mission to protect his lover and exact vengeance.",
+    "duration_mins": 145,
+    "genre": "Fantasy / Revenge",
+    "poster_url": "/posters/eega.jpg",
+    "rating": "7.7"
+  },
+  {
+    "title": "Magadheera",
+    "description": "A warrior from the 17th century is reincarnated in modern times to protect the woman he loved and defeat the evil commander.",
+    "duration_mins": 166,
+    "genre": "Action / Fantasy / Romance",
+    "poster_url": "/posters/magadheera.jpg",
+    "rating": "8.1"
+  },
+  {
+    "title": "Pokiri",
+    "description": "A ruthless killer-for-hire gets caught between two rival underworld gangs while concealing his true undercover police identity.",
+    "duration_mins": 167,
+    "genre": "Action / Thriller",
+    "poster_url": "/posters/pokiri.jpg",
+    "rating": "8.0"
+  },
+  {
+    "title": "Athadu",
+    "description": "A professional assassin framed for the murder of a politician assumes the identity of a deceased man while hiding in a joint family.",
+    "duration_mins": 173,
+    "genre": "Action / Thriller",
+    "poster_url": "/posters/athadu.jpg",
+    "rating": "8.2"
+  },
+  {
+    "title": "Okkadu",
+    "description": "A Kabaddi player visits Kurnool for a match and unexpectedly rescues a young woman from an obsessive factionist faction leader.",
+    "duration_mins": 170,
+    "genre": "Action / Romance",
+    "poster_url": "/posters/okkadu.jpg",
+    "rating": "8.1"
+  },
+  {
+    "title": "Bommarillu",
+    "description": "A young man struggles against his overprotective father's micro-management while falling in love with an exuberant, free-spirited girl.",
+    "duration_mins": 170,
+    "genre": "Romance / Family Drama",
+    "poster_url": "/posters/bommarillu.jpg",
+    "rating": "8.2"
+  },
+  {
+    "title": "Arjun Reddy",
+    "description": "A brilliant surgeon with anger management issues spirals into severe drug and alcohol addiction after his girlfriend is forced to marry another man.",
+    "duration_mins": 188,
+    "genre": "Romance / Drama",
+    "poster_url": "/posters/arjun_reddy.jpg",
+    "rating": "8.0"
+  },
+  {
+    "title": "Ala Vaikunthapurramuloo",
+    "description": "A young man raised by a spiteful clerk discovers that he was swapped at birth with the son of a wealthy millionaire businessman.",
+    "duration_mins": 165,
+    "genre": "Action / Family Comedy",
+    "poster_url": "/posters/ala_vaikunthapurramuloo.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Sarileru Neekevvaru",
+    "description": "An Indian Army Major travels to Kurnool on a covert personal assignment to protect his martyred colleague's mother and family.",
+    "duration_mins": 169,
+    "genre": "Action / Comedy",
+    "poster_url": "/posters/sarileru_neekevvaru.jpg",
+    "rating": "6.0"
+  },
+  {
+    "title": "Bharat Ane Nenu",
+    "description": "A young Oxford graduate unexpectedly becomes the Chief Minister of Andhra Pradesh and attempts to revolutionize governance and combat corruption.",
+    "duration_mins": 173,
+    "genre": "Political Drama",
+    "poster_url": "/posters/bharat_ane_nenu.jpg",
+    "rating": "7.6"
+  },
+  {
+    "title": "Srimanthudu",
+    "description": "The idealistic heir of a multi-billion dollar business empire chooses to adopt a neglected rural village to bring basic amenities and dignity.",
+    "duration_mins": 163,
+    "genre": "Action / Drama",
+    "poster_url": "/posters/srimanthudu.jpg",
+    "rating": "7.5"
+  },
+  {
+    "title": "Dookudu",
+    "description": "A daring undercover IPS officer creates an elaborate theatrical illusion to shield his comatose politician father while hunting an international don.",
+    "duration_mins": 175,
+    "genre": "Action / Comedy",
+    "poster_url": "/posters/dookudu.jpg",
+    "rating": "7.5"
+  },
+  {
+    "title": "Businessman",
+    "description": "Surya arrives in Mumbai with a singular ambition to conquer the city's underworld and establish a corporate criminal empire.",
+    "duration_mins": 133,
+    "genre": "Crime / Action",
+    "poster_url": "/posters/businessman.jpg",
+    "rating": "7.2"
+  },
+  {
+    "title": "Khaleja",
+    "description": "A cynical cab driver is revered as a divine savior by an isolated remote village plagued by an inexplicable, mysterious illness.",
+    "duration_mins": 170,
+    "genre": "Action / Comedy / Fantasy",
+    "poster_url": "/posters/khaleja.jpg",
+    "rating": "7.7"
+  },
+  {
+    "title": "Murari",
+    "description": "A curse cast on an aristocratic royal family requires one male descendant to sacrifice his life every forty-eight years.",
+    "duration_mins": 175,
+    "genre": "Supernatural / Drama",
+    "poster_url": "/posters/murari.jpg",
+    "rating": "7.9"
+  },
+  {
+    "title": "Arya",
+    "description": "A spirited and eccentric college student practices unconditional one-sided love for a woman who is already in a relationship with another.",
+    "duration_mins": 150,
+    "genre": "Romance / Comedy",
+    "poster_url": "/posters/arya.jpg",
+    "rating": "7.8"
+  },
+  {
+    "title": "Arya 2",
+    "description": "Two childhood orphanage friends enter the corporate world where their bond is tested by obsession, friendship, and unspoken sacrifice.",
+    "duration_mins": 162,
+    "genre": "Romance / Psychological Drama",
+    "poster_url": "/posters/arya_2.jpg",
+    "rating": "7.4"
+  },
+  {
+    "title": "Desamuduru",
+    "description": "A television channel program director on a field assignment in Kullu Manali falls in love with a sanyasini pursued by a violent gangster.",
+    "duration_mins": 155,
+    "genre": "Action / Romance",
+    "poster_url": "/posters/desamuduru.jpg",
+    "rating": "7.0"
+  },
+  {
+    "title": "Race Gurram",
+    "description": "Two fiercely contrasting brothers – a by-the-book police officer and a carefree rogue – unite to destroy a ruthless villain aspiring for political power.",
+    "duration_mins": 163,
+    "genre": "Action / Comedy",
+    "poster_url": "/posters/race_gurram.jpg",
+    "rating": "7.2"
+  },
+  {
+    "title": "Julayi",
+    "description": "A hyper-intelligent slacker witnesses a massive bank robbery and assists the police commissioner in outsmarting a criminal mastermind.",
+    "duration_mins": 160,
+    "genre": "Action / Comedy",
+    "poster_url": "/posters/julayi.jpg",
+    "rating": "7.2"
+  },
+  {
+    "title": "S/O Satyamurthy",
+    "description": "A privileged son sacrifices his wealth and prestige to settle his late father's debts and uphold his supreme code of family values and integrity.",
+    "duration_mins": 162,
+    "genre": "Drama / Family",
+    "poster_url": "/posters/s_o_satyamurthy.jpg",
+    "rating": "7.1"
+  },
+  {
+    "title": "Sarrainodu",
+    "description": "An ex-military officer punishes corrupt, powerful criminals outside legal boundaries and wages war against an untouchable chief minister's sociopathic son.",
+    "duration_mins": 159,
+    "genre": "Action / Mass",
+    "poster_url": "/posters/sarrainodu.jpg",
+    "rating": "6.6"
+  },
+  {
+    "title": "DJ: Duvvada Jagannadham",
+    "description": "A devout traditional Brahmin cook doubles as a secret vigilante assassin who eliminates corrupt syndicate kingpins.",
+    "duration_mins": 156,
+    "genre": "Action / Comedy",
+    "poster_url": "/posters/dj_duvvada_jagannadham.jpg",
+    "rating": "6.0"
+  },
+  {
+    "title": "Vedam",
+    "description": "Five individuals from vastly diverse socioeconomic backgrounds cross paths during a fatal terrorist hostage crisis in a Hyderabad hospital.",
+    "duration_mins": 135,
+    "genre": "Drama / Anthology",
+    "poster_url": "/posters/vedam.jpg",
+    "rating": "8.1"
+  },
+  {
+    "title": "Chatrapathi",
+    "description": "A displaced Sri Lankan refugee in Vizag rises up to become the legendary protector and voice of oppressed dock laborers.",
+    "duration_mins": 158,
+    "genre": "Action / Drama",
+    "poster_url": "/posters/chatrapathi.jpg",
+    "rating": "7.7"
+  },
+  {
+    "title": "Simhadri",
+    "description": "A devoted servant in a benevolent feudal patriarch's household conceals a violent past where he ruled the streets of Kerala as an underworld defender.",
+    "duration_mins": 172,
+    "genre": "Action / Mass",
+    "poster_url": "/posters/simhadri.jpg",
+    "rating": "7.5"
+  },
+  {
+    "title": "Yamadonga",
+    "description": "A charming rogue thief dies prematurely and lands in the court of Yama Dharma Raja, where he creates unprecedented comic havoc.",
+    "duration_mins": 184,
+    "genre": "Fantasy / Comedy",
+    "poster_url": "/posters/yamadonga.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Temper",
+    "description": "A thoroughly corrupt police inspector undergoes a moral redemption after witnessing the gruesome assault of an innocent young woman.",
+    "duration_mins": 147,
+    "genre": "Action / Drama",
+    "poster_url": "/posters/temper.jpg",
+    "rating": "7.4"
+  },
+  {
+    "title": "Nannaku Prematho",
+    "description": "An intelligent son uses deductive logic and mathematical strategies to bankrupt the cunning oligarch who swindled his dying father.",
+    "duration_mins": 168,
+    "genre": "Action / Thriller",
+    "poster_url": "/posters/nannaku_prematho.jpg",
+    "rating": "7.5"
+  },
+  {
+    "title": "Janatha Garage",
+    "description": "An environmental activist joins forces with a noble garage mechanic who runs a parallel people's court resolving societal injustice.",
+    "duration_mins": 162,
+    "genre": "Action / Drama",
+    "poster_url": "/posters/janatha_garage.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Aravinda Sametha Veera Raghava",
+    "description": "A young scion of a faction-ridden Rayalaseema clan renounces bloodshed and strives tirelessly to bring lasting peace between warring villages.",
+    "duration_mins": 162,
+    "genre": "Action / Faction Drama",
+    "poster_url": "/posters/aravinda_sametha_veera_raghava.jpg",
+    "rating": "7.6"
+  },
+  {
+    "title": "Mirchi",
+    "description": "A peace-loving youth enters a violent faction-torn territory to reform hostile warlords through unconditional love rather than bloody weapons.",
+    "duration_mins": 155,
+    "genre": "Action / Drama",
+    "poster_url": "/posters/mirchi.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Darling",
+    "description": "A charming young man narrates an imaginative fabricated romantic tale to evade marrying a dangerous local gangster's daughter.",
+    "duration_mins": 150,
+    "genre": "Romance / Comedy",
+    "poster_url": "/posters/darling.jpg",
+    "rating": "7.2"
+  },
+  {
+    "title": "Mr. Perfect",
+    "description": "A staunchly uncompromising software architect learns the supreme beauty of mutual adjustments and empathy in human relationships.",
+    "duration_mins": 145,
+    "genre": "Romance / Family Drama",
+    "poster_url": "/posters/mr_perfect.jpg",
+    "rating": "7.1"
+  },
+  {
+    "title": "Saaho",
+    "description": "An undercover operative battles international crime syndicates vying for supreme control of the fictional metropolis of Waaji City.",
+    "duration_mins": 170,
+    "genre": "Action / Sci-Fi Thriller",
+    "poster_url": "/posters/saaho.jpg",
+    "rating": "5.1"
+  },
+  {
+    "title": "Radhe Shyam",
+    "description": "A world-renowned palmist who believes strictly in destiny finds his rigid convictions shaken when he falls deeply in love with a terminally ill doctor.",
+    "duration_mins": 138,
+    "genre": "Period Romance / Fantasy",
+    "poster_url": "/posters/radhe_shyam.jpg",
+    "rating": "5.3"
+  },
+  {
+    "title": "Adipurush",
+    "description": "Lord Raghava, Janaki, and Shesh embark on a divine epic war against the demon king Lankesh in Lanka to rescue Janaki.",
+    "duration_mins": 179,
+    "genre": "Mythological Action",
+    "poster_url": "/posters/adipurush.jpg",
+    "rating": "4.8"
+  },
+  {
+    "title": "Guntur Kaaram",
+    "description": "A fiery man from Guntur is pressured to sign an agreement relinquishing all family ties with his estranged politician mother.",
+    "duration_mins": 159,
+    "genre": "Action / Family Drama",
+    "poster_url": "/posters/guntur_kaaram.jpg",
+    "rating": "5.4"
+  },
+  {
+    "title": "Bimbisara",
+    "description": "The ruthless king of Trigartala kingdom travels through time via a mystical mirror and lands in modern Hyderabad to undergo redemption.",
+    "duration_mins": 146,
+    "genre": "Fantasy / Period Action",
+    "poster_url": "/posters/bimbisara.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Karthikeya",
+    "description": "A curious medical student investigates mysterious deaths surrounding a closed Subramanyaswamy temple in a tranquil rural village.",
+    "duration_mins": 130,
+    "genre": "Mystery / Thriller",
+    "poster_url": "/posters/karthikeya.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Karthikeya 2",
+    "description": "Dr. Karthikeya embarks on an perilous quest to retrieve Lord Krishna's sacred anklet and safeguard ancient lost knowledge for humanity.",
+    "duration_mins": 150,
+    "genre": "Mystery / Adventure / Mythology",
+    "poster_url": "/posters/karthikeya_2.jpg",
+    "rating": "7.9"
+  },
+  {
+    "title": "Major",
+    "description": "The inspiring true story of Major Sandeep Unnikrishnan, who valiantly saved hundreds of civilians during the 2008 Mumbai 26/11 attacks.",
+    "duration_mins": 150,
+    "genre": "Biography / Action / Drama",
+    "poster_url": "/posters/major.jpg",
+    "rating": "8.1"
+  },
+  {
+    "title": "Goodachari",
+    "description": "A sincere young intelligence agent is framed for the assassination of his superior officers and must race against time to expose a double agent.",
+    "duration_mins": 147,
+    "genre": "Spy / Action Thriller",
+    "poster_url": "/posters/goodachari.jpg",
+    "rating": "7.8"
+  },
+  {
+    "title": "HIT: The First Case",
+    "description": "A brilliant detective suffering from post-traumatic stress disorder tackles the baffling case of a missing young college girl.",
+    "duration_mins": 125,
+    "genre": "Crime / Mystery Thriller",
+    "poster_url": "/posters/hit_the_first_case.jpg",
+    "rating": "7.7"
+  },
+  {
+    "title": "HIT: The Second Case",
+    "description": "SP Krishna Dev investigates a gruesome, chilling serial killer case in Vizag where the victim was murdered and dismembered.",
+    "duration_mins": 120,
+    "genre": "Crime / Mystery Thriller",
+    "poster_url": "/posters/hit_the_second_case.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Evaru",
+    "description": "A corrupt sub-inspector is hired by a wealthy woman accused of killing a high-ranking officer to fabricate a watertight self-defense narrative.",
+    "duration_mins": 118,
+    "genre": "Mystery / Crime Drama",
+    "poster_url": "/posters/evaru.jpg",
+    "rating": "8.1"
+  },
+  {
+    "title": "Kshanam",
+    "description": "An NRI returns to India to help his ex-girlfriend search for her missing daughter, but everyone else claims the child never existed.",
+    "duration_mins": 120,
+    "genre": "Mystery / Thriller",
+    "poster_url": "/posters/kshanam.jpg",
+    "rating": "8.1"
+  },
+  {
+    "title": "Agent Sai Srinivasa Athreya",
+    "description": "A quirky Nellore detective investigating an unidentified body at a railway track uncovers a massive, sinister dead-body racket.",
+    "duration_mins": 148,
+    "genre": "Comedy / Detective Thriller",
+    "poster_url": "/posters/agent_sai_srinivasa_athreya.jpg",
+    "rating": "8.4"
+  },
+  {
+    "title": "Mathu Vadalara",
+    "description": "A penurious delivery boy attempts a petty delivery scam, only to find himself trapped in a posh apartment with a dead corpse.",
+    "duration_mins": 129,
+    "genre": "Comedy / Mystery Thriller",
+    "poster_url": "/posters/mathu_vadalara.jpg",
+    "rating": "8.2"
+  },
+  {
+    "title": "Mathu Vadalara 2",
+    "description": "Former delivery boys turn into elite special task force agents who get framed in a sensational high-profile kidnapping scheme.",
+    "duration_mins": 138,
+    "genre": "Comedy / Crime Thriller",
+    "poster_url": "/posters/mathu_vadalara_2.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Jathi Ratnalu",
+    "description": "Three naive, small-town friends move to Hyderabad dreaming of fortune, only to be framed for an assassination attempt on a minister.",
+    "duration_mins": 145,
+    "genre": "Comedy",
+    "poster_url": "/posters/jathi_ratnalu.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Pellichoopulu",
+    "description": "Two ambition-contrasting youths meet during an arranged matchmaking session and team up to launch a revolutionary food truck.",
+    "duration_mins": 125,
+    "genre": "Romance / Comedy",
+    "poster_url": "/posters/pellichoopulu.jpg",
+    "rating": "8.2"
+  },
+  {
+    "title": "Geetha Govindam",
+    "description": "An innocent, upright college lecturer is mislabeled as an obnoxious eve-teaser by a fiery woman who happens to be his prospective sister-in-law.",
+    "duration_mins": 142,
+    "genre": "Romance / Comedy",
+    "poster_url": "/posters/geetha_govindam.jpg",
+    "rating": "7.7"
+  },
+  {
+    "title": "Dear Comrade",
+    "description": "A fiery student activist with uncontrollable anger issues fights to support his state-level cricketer lover facing sexual harassment.",
+    "duration_mins": 169,
+    "genre": "Romance / Drama",
+    "poster_url": "/posters/dear_comrade.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Kushi",
+    "description": "Two people from diametrically opposite ideological backgrounds marry out of defiance, facing ego clashes when life gets real.",
+    "duration_mins": 165,
+    "genre": "Romance / Comedy Drama",
+    "poster_url": "/posters/kushi.jpg",
+    "rating": "6.4"
+  },
+  {
+    "title": "Ante Sundaraniki",
+    "description": "An orthodox Brahmin boy and a devout Christian photographer weave an intricate web of comedic lies to convince their families to wed.",
+    "duration_mins": 173,
+    "genre": "Romance / Comedy",
+    "poster_url": "/posters/ante_sundaraniki.jpg",
+    "rating": "7.6"
+  },
+  {
+    "title": "Shyam Singha Roy",
+    "description": "A modern filmmaker accused of plagiarism experiences spontaneous past-life memories of being a fearless revolutionary writer in 1970s Bengal.",
+    "duration_mins": 157,
+    "genre": "Period Drama / Supernatural",
+    "poster_url": "/posters/shyam_singha_roy.jpg",
+    "rating": "7.7"
+  },
+  {
+    "title": "Hi Nanna",
+    "description": "A dedicated single father raising a daughter with cystic fibrosis bonds with a warm, caring woman who harbors a secret connection to their past.",
+    "duration_mins": 155,
+    "genre": "Romance / Family Drama",
+    "poster_url": "/posters/hi_nanna.jpg",
+    "rating": "8.2"
+  },
+  {
+    "title": "Dasara",
+    "description": "In the coal-dust-blanketed village of Veerlapally, lifelong bonds of friendship and love are tested against ruthless feudal power plays.",
+    "duration_mins": 156,
+    "genre": "Period Action / Drama",
+    "poster_url": "/posters/dasara.jpg",
+    "rating": "6.7"
+  },
+  {
+    "title": "Nani's Gang Leader",
+    "description": "A mediocre revenge novelist is hired by an unlikely team of five grieving women to plot vengeance against a ruthless ambulance driver.",
+    "duration_mins": 156,
+    "genre": "Comedy / Crime Thriller",
+    "poster_url": "/posters/nani_s_gang_leader.jpg",
+    "rating": "7.6"
+  },
+  {
+    "title": "Bhale Bhale Magadivoy",
+    "description": "An eccentric plant scientist plagued by severe absent-mindedness goes to extreme comedic lengths to hide his condition from his beloved.",
+    "duration_mins": 143,
+    "genre": "Romance / Comedy",
+    "poster_url": "/posters/bhale_bhale_magadivoy.jpg",
+    "rating": "7.7"
+  },
+  {
+    "title": "Ninnu Kori",
+    "description": "A young man unable to move on from his past heartbreak travels to San Francisco to meet his married former lover and her supportive husband.",
+    "duration_mins": 136,
+    "genre": "Romance / Drama",
+    "poster_url": "/posters/ninnu_kori.jpg",
+    "rating": "7.6"
+  },
+  {
+    "title": "Middle Class Abbayi",
+    "description": "A middle-class youth who clashes with his sister-in-law steps forward to defend her from a merciless transport mafia kingpin in Warangal.",
+    "duration_mins": 154,
+    "genre": "Action / Family Drama",
+    "poster_url": "/posters/middle_class_abbayi.jpg",
+    "rating": "5.9"
+  },
+  {
+    "title": "Uppena",
+    "description": "A passionate fisherman's son falls in love with an upper-caste landlord's daughter, daring to defy caste and honor in coastal Andhra.",
+    "duration_mins": 147,
+    "genre": "Romance / Social Drama",
+    "poster_url": "/posters/uppena.jpg",
+    "rating": "7.3"
+  },
+  {
+    "title": "Krack",
+    "description": "A fiercely unhinged police circle inspector takes on brutal factionists and seasoned underworld criminals across Andhra Pradesh.",
+    "duration_mins": 154,
+    "genre": "Action / Police Drama",
+    "poster_url": "/posters/krack.jpg",
+    "rating": "6.8"
+  },
+  {
+    "title": "Vakeel Saab",
+    "description": "A reclusive, grieving advocate comes out of retirement to represent three innocent young women falsely accused of assault by influential men.",
+    "duration_mins": 155,
+    "genre": "Legal Drama / Thriller",
+    "poster_url": "/posters/vakeel_saab.jpg",
+    "rating": "7.1"
+  },
+  {
+    "title": "Bheemla Nayak",
+    "description": "An uncompromising duty-bound sub-inspector locks horns with an arrogant ex-havildar politician's son in an explosive ego battle.",
+    "duration_mins": 145,
+    "genre": "Action / Drama",
+    "poster_url": "/posters/bheemla_nayak.jpg",
+    "rating": "6.4"
+  },
+  {
+    "title": "Waltair Veerayya",
+    "description": "A feared Visakhapatnam fisherman kingpin travels to Malaysia on a high-stakes mission to capture a notorious drug cartel boss.",
+    "duration_mins": 160,
+    "genre": "Action / Mass Entertainer",
+    "poster_url": "/posters/waltair_veerayya.jpg",
+    "rating": "6.3"
+  },
+  {
+    "title": "Veera Simha Reddy",
+    "description": "A revered faction chieftain of Pulicharla defends his land and people against ancestral blood feuds and insidious betrayal.",
+    "duration_mins": 169,
+    "genre": "Action / Faction Drama",
+    "poster_url": "/posters/veera_simha_reddy.jpg",
+    "rating": "5.3"
+  },
+  {
+    "title": "Bhagavanth Kesari",
+    "description": "A fearless guardian fights against all odds to train his deceased friend's fragile daughter into an indomitable Indian Army officer.",
+    "duration_mins": 155,
+    "genre": "Action / Emotional Drama",
+    "poster_url": "/posters/bhagavanth_kesari.jpg",
+    "rating": "6.6"
+  },
+  {
+    "title": "Akhanda",
+    "description": "An ascetic Aghora devotee of Lord Shiva descends from the sacred Himalayas to vanquish a ruthless uranium mining tycoon.",
+    "duration_mins": 167,
+    "genre": "Action / Devotional Mass",
+    "poster_url": "/posters/akhanda.jpg",
+    "rating": "6.9"
+  },
+  {
+    "title": "Legend",
+    "description": "A charismatic NRI returns to his ancestral Rayalaseema estate to end the violent terror reign of a psychopathic local factionist.",
+    "duration_mins": 162,
+    "genre": "Action / Mass",
+    "poster_url": "/posters/legend.jpg",
+    "rating": "6.9"
+  },
+  {
+    "title": "F2: Fun and Frustration",
+    "description": "Two frustrated married men conspire together to escape their domineering spouses, fleeing to Europe for an hilarious misadventure.",
+    "duration_mins": 148,
+    "genre": "Comedy",
+    "poster_url": "/posters/f2_fun_and_frustration.jpg",
+    "rating": "6.5"
+  },
+  {
+    "title": "F3: Fun and Frustration",
+    "description": "Night-blind and stuttering conmen join forces to fool an industrialist into believing they are his estranged billionaire heirs.",
+    "duration_mins": 149,
+    "genre": "Comedy",
+    "poster_url": "/posters/f3_fun_and_frustration.jpg",
+    "rating": "5.0"
+  },
+  {
+    "title": "Venky Mama",
+    "description": "A superstitious village uncle who sacrificed his own marriage to raise his orphaned nephew races to rescue him from Pakistan border insurgents.",
+    "duration_mins": 149,
+    "genre": "Action / Drama / Comedy",
+    "poster_url": "/posters/venky_mama.jpg",
+    "rating": "6.0"
+  },
+  {
+    "title": "Drushyam",
+    "description": "A clever cable TV operator orchestrates an impenetrable web of false alibis to shield his family after an accidental death.",
+    "duration_mins": 150,
+    "genre": "Crime / Mystery Thriller",
+    "poster_url": "/posters/drushyam.jpg",
+    "rating": "8.2"
+  },
+  {
+    "title": "Drushyam 2",
+    "description": "Six years after the baffling incident, Rambabu faces renewed police surveillance and forensic reinvestigation into the case.",
+    "duration_mins": 152,
+    "genre": "Crime / Mystery Thriller",
+    "poster_url": "/posters/drushyam_2.jpg",
+    "rating": "7.8"
+  },
+  {
+    "title": "Seethamma Vakitlo Sirimalle Chettu",
+    "description": "Two loving but temperamental brothers navigate middle-class realities and familial self-respect in the scenic town of Relangi.",
+    "duration_mins": 159,
+    "genre": "Family / Drama",
+    "poster_url": "/posters/seethamma_vakitlo_sirimalle_chettu.jpg",
+    "rating": "7.5"
+  },
+  {
+    "title": "Manam",
+    "description": "Three generations of the legendary Akkineni family are miraculously reborn to reunite with their past-life loves in modern Hyderabad.",
+    "duration_mins": 163,
+    "genre": "Fantasy / Drama / Romance",
+    "poster_url": "/posters/manam.jpg",
+    "rating": "8.0"
+  },
+  {
+    "title": "Oopiri",
+    "description": "A quadriplegic billionaire hires an irreverent ex-convict on parole as his full-time caregiver, sparking a life-changing friendship.",
+    "duration_mins": 158,
+    "genre": "Comedy / Drama",
+    "poster_url": "/posters/oopiri.jpg",
+    "rating": "8.0"
+  },
+  {
+    "title": "Soggade Chinni Nayana",
+    "description": "The dashing spirit of a deceased village charmer is sent back to earth by Lord Yama to rescue his timid son's crumbling marriage.",
+    "duration_mins": 143,
+    "genre": "Supernatural / Comedy",
+    "poster_url": "/posters/soggade_chinni_nayana.jpg",
+    "rating": "6.4"
+  },
+  {
+    "title": "Bangarraju",
+    "description": "The ghostly patriarch Bangarraju returns once again alongside his heavenly spouse to guard a sacred temple treasure.",
+    "duration_mins": 155,
+    "genre": "Supernatural / Comedy / Fantasy",
+    "poster_url": "/posters/bangarraju.jpg",
+    "rating": "5.8"
+  },
+  {
+    "title": "Brochevarevarura",
+    "description": "Three underperforming intermediate students orchestrate a mock kidnapping for their friend, which collides with a real criminal abduction.",
+    "duration_mins": 138,
+    "genre": "Comedy / Crime Thriller",
+    "poster_url": "/posters/brochevarevarura.jpg",
+    "rating": "8.0"
+  },
+  {
+    "title": "C/o Kancharapalem",
+    "description": "Four unconventional, deeply touching love stories unfold across different ages, religions, and social strata in a rustic Vizag suburb.",
+    "duration_mins": 152,
+    "genre": "Slice of Life / Drama / Romance",
+    "poster_url": "/posters/c_o_kancharapalem.jpg",
+    "rating": "8.8"
+  },
+  {
+    "title": "Colour Photo",
+    "description": "Set in 1990s Machilipatnam, an impoverished dark-complexioned engineering student battles colorism and societal tyranny for love.",
+    "duration_mins": 139,
+    "genre": "Period Romance / Drama",
+    "poster_url": "/posters/colour_photo.jpg",
+    "rating": "8.1"
+  }
+]
